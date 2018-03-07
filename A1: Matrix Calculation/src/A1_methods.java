@@ -1,5 +1,4 @@
 /* Name: Muzhou,Zhai 
- * ID: 10106810
  * Course: CPSC331
  * Tutorial Section: T02
  * Assignment 1
